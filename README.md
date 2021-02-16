@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/JavaScript-ffc742" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-1C7FEA" alt="TypeScript" />
 <img src="https://img.shields.io/badge/NodeJS-83CD29" alt="NodeJS" /> 
+<img src="https://img.shields.io/badge/Python-04721A" alt="Python" /> 
 </p>
 <hr />
 
