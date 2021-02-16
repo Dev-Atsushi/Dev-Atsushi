@@ -21,6 +21,8 @@ Web and Data Fullstack projects...
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Firebase-F6820D.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Python-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Electron-%23316192.svg?style=for-the-badge&logo=electron&logoColor=white" height="25" />
+
 </p>
 
 ## Estatistícas・⭐
