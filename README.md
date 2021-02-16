@@ -1,43 +1,31 @@
+## Atsushi - Biography・👋
+Atsushi ou melhor Arthur, é um web e data fullstack, atualmente freelancer e fazendo projetos open-source aqui no <a href="https://github.com/">Github</a>.
+
+<img align="right" src="https://cdn.glitch.com/eee4f430-9a8b-4d56-b461-96c75e6db402%2Fimage-removebg-preview(1).png?v=1612131826385" height="160px" />
+
+Projetos são feitos totalmente responsivos e funcionando normalmente, ou caso apresente um emprevisto e tenha um problema. <a href="https://github.com/Dev-Atsushi/">Reporte</a>.
+  
+Web and Data Fullstack projects...
+
+## Tecnologias e ferramentas・💻
+
 <p align="center">
-  <img src="https://cdn.glitch.com/eee4f430-9a8b-4d56-b461-96c75e6db402%2Fimage-removebg-preview(1).png?v=1612131826385" width="200"/>
+
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Express.js-%23404d59?logo=express&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Firebase-F6820D.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Python-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" height="25" />
 </p>
 
-<h1 align="center">Atsushi</h1>
-
-<h3 align="center">Sobre mim</h3>
-
-<p align="center">Heyo! Eu sou Atsushi um programador fullstack planium com 13 anos.</p>
-
-<hr />
-
-<h3 align="center">Linguagens</h3>
+## Estatistícas・⭐
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-FA580C" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-173FF2" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-ffc742" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-1C7FEA" alt="TypeScript" />
-<img src="https://img.shields.io/badge/NodeJS-83CD29" alt="NodeJS" /> 
-<img src="https://img.shields.io/badge/Python-04721A" alt="Python" /> 
-</p>
-<hr />
-
-<h3 align="center">Livrarias</h3>
-
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=Discord.js&color=blue" alt="Discord.js"/>
-</p>
-
-<hr />
-
-<h3 align="center">Estatistícas</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-atsushi&show_icons=true&theme=dracula" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-atsushi&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-atsushi&show_icons=true&theme=tokyonight&line_height=27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-atsushi&hide=batchfile&theme=tokyonight" />
 </p>
