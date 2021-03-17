@@ -18,6 +18,8 @@ Web and Data Fullstack projects...
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Firebase-F6820D.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Python-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" height="25" />
