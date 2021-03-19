@@ -41,5 +41,5 @@ Web and Data Fullstack projects...
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-atsushi&show_icons=true&theme=tokyonight&line_height=27" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-atsushi&hide=batchfile&hide=ejs&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-atsushi&hide=batchfile&theme=tokyonight" />
 </p>
