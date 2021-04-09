@@ -25,8 +25,8 @@ Web and Data Fullstack projects...
 <img src="https://img.shields.io/badge/Python-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Electron-%23316192.svg?style=for-the-badge&logo=electron&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Gulp-FF0000.svg?style=for-the-badge&logo=gulp&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Html-ffa500.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Css-7273ff.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Html-ff6347.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Css-0080FF.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Webpack-8ED5FA.svg?style=for-the-badge&logo=webpack&logoColor=white" height="25" />
 </p>
 <p align="left">
@@ -34,8 +34,8 @@ Web and Data Fullstack projects...
 <img src="https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=react&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Batch-green.svg?style=for-the-badge&logo=shell&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Next.Js-gray.svg?style=for-the-badge&logo=next.js&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25" />
-<img src="https://img.shields.io/badge/c++%20-%2335495e.svg?&style=for-the-badge&logo=c&logoColor=%234FC08D" height="25" />
+<img src="https://img.shields.io/badge/vuejs%20-34495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25" />
+<img src="https://img.shields.io/badge/c++%20-088192.svg?&style=for-the-badge&logo=c&logoColor=%234FC08D" height="25" />
 </p>
 
 ## Estatistícas・⭐
