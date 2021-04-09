@@ -11,7 +11,8 @@ Atsushi ou melhor Arthur, é um fullstack especializado em web portanto sabendo 
 
 Projetos são feitos totalmente responsivos e funcionando normalmente, ou caso apresente um emprevisto e tenha um problema. <a href="https://github.com/Dev-Atsushi/">Reporte</a>.
   
-/* Coffee Addict */ Web, Data and software Fullstack projects...
+/* Coffee Addict */ <br />
+Web, Data and software Fullstack projects...
 
 ## Tecnologias e ferramentas・💻
 
