@@ -1,4 +1,4 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P648ED0)
+<a href='https://ko-fi.com/P5P648ED0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Atsushi - Biography・👋
 Atsushi ou melhor Arthur, é um web e data fullstack, atualmente freelancer e fazendo projetos open-source aqui no <a href="https://github.com/">Github</a>.
