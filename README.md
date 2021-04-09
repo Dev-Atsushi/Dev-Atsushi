@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P648ED0)
+
 ## Atsushi - Biography・👋
 Atsushi ou melhor Arthur, é um web e data fullstack, atualmente freelancer e fazendo projetos open-source aqui no <a href="https://github.com/">Github</a>.
 
