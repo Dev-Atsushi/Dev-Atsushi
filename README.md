@@ -46,7 +46,7 @@ Web, Data and software Fullstack projects...
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25" />
 </p>
 
-## Estatistícas・⭐
+## Statistics・⭐
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-atsushi&show_icons=true&theme=tokyonight&line_height=27" />
