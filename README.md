@@ -43,6 +43,7 @@ Web, Data and software Fullstack projects...
 <img src="https://img.shields.io/badge/Next.Js-gray.svg?style=for-the-badge&logo=next.js&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/vuejs%20-34495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25" />
 <img src="https://img.shields.io/badge/c++%20-088192.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=%234FC08D" height="25" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25" />
 </p>
 
 ## Estatistícas・⭐
