@@ -1,20 +1,20 @@
 <p align="center">
   <a href="https://ko-fi.com/atsushisushi" target="_blank">
-    <img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" border="0" alt='Compre pra mim um café em ko-fi.com' />
+    <img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" border="0" alt='Buy a coffee for me ko-fi.com' />
   </a>
 </p>
 
 ## Atsushi - Biography・👋
-Atsushi ou melhor Arthur, é um fullstack especializado em web portanto sabendo software developer e data, atualmente freelancer e fazendo projetos open-source aqui no <a href="https://github.com/">Github</a>. Quem sabe você não me paga um <a href="https://ko-fi.com/atsushisushi" target="_blank">café</a> para impulsionar meus códigos.
+Atsushi or better Arthur, is a fullstack specialized in web therefore knowing software developer and data, currently freelancing and doing open-source projects here on <a href="https://github.com/">Github</a>. Who knows, you might not pay me a cup of <a href="https://ko-fi.com/atsushisushi" target="_blank">coffee</a> to boost my codes.
 
 <img align="right" src="https://cdn.glitch.com/eee4f430-9a8b-4d56-b461-96c75e6db402%2Fimage-removebg-preview(1).png?v=1612131826385" height="160px" />
 
-Projetos são feitos totalmente responsivos e funcionando normalmente, ou caso apresente um emprevisto e tenha um problema. <a href="https://github.com/Dev-Atsushi/">Reporte</a>.
+Projects are done fully responsive and working normally, or if you have a loan and have a problem. <a href="https://github.com/Dev-Atsushi/">Report</a>.
   
 Coffee Addict  <br />
 Web, Data and software Fullstack projects...
 
-## Tecnologias e ferramentas・💻
+## Technologies and tools・💻
 
 <p align="left">
 
