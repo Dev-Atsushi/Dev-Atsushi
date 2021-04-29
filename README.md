@@ -5,7 +5,7 @@
 </p>
 
 ## Atsushi - Biography・👋
-Atsushi ou melhor Arthur, é um fullstack especializado em web portanto sabendo software developer e data, atualmente freelancer e fazendo projetos open-source aqui no <a href="https://github.com/">Github</a>. Quem sabe você não me paga um <a href="https://ko-fi.com/atsushisushi" target="_blank">café</a> pra impulsionar meus códigos.
+Atsushi ou melhor Arthur, é um fullstack especializado em web portanto sabendo software developer e data, atualmente freelancer e fazendo projetos open-source aqui no <a href="https://github.com/">Github</a>. Quem sabe você não me paga um <a href="https://ko-fi.com/atsushisushi" target="_blank">café</a> para impulsionar meus códigos.
 
 <img align="right" src="https://cdn.glitch.com/eee4f430-9a8b-4d56-b461-96c75e6db402%2Fimage-removebg-preview(1).png?v=1612131826385" height="160px" />
 
