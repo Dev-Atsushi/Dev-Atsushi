@@ -9,30 +9,30 @@ Currently freelancing and doing open-source projects here on <a href="https://gi
 Projects are done fully responsive and working normally, or if you have a loan and have a problem. <a href="https://github.com/Dev-Atsushi/">Report</a>.
 
 <div align="right" width="700">
-    <img align="center" src="https://i.imgur.com/hkpVEvr.png" alt="html5" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/nxsNQ9M.png" alt="css3" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/AsQqunT.png" alt="javascript"width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/JxP3cZE.png" alt="typescript" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/YWkyeFO.png" alt="bootstrap" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/zUvGK9u.png" alt="expressjs" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/Nhuq1Gt.png" alt="nodejs" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/tHz49Lt.png" alt="npm" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/WPOuZqI.png" alt="git" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/DZjNb1T.png" alt="mongodb" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/hkpVEvr.png" title="html5" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/nxsNQ9M.png" title="css3" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/AsQqunT.png" title="javascript"width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/JxP3cZE.png" title="typescript" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/YWkyeFO.png" title="bootstrap" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/zUvGK9u.png" title="expressjs" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/Nhuq1Gt.png" title="nodejs" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/tHz49Lt.png" title="npm" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/WPOuZqI.png" title="git" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/DZjNb1T.png" title="mongodb" width="25"/>&nbsp;
     <br />
-    <img align="center" src="https://i.imgur.com/bxqKdqe.png" alt="firebase" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/O1X88tn.png" alt="python" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/zFIaVNv.png" alt="electron" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/ZcIJUio.png" alt="gulp" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/8zi7SYt.png" alt="webpack" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/9DbVTos.png" alt="sass" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/uQuB4Cn.png" alt="react" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/d2YDW7g.png" alt="bash" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/e7omycw.png" alt="nextjs" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/u5s2vbq.png" alt="vuejs" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/bxqKdqe.png" title="firebase" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/O1X88tn.png" title="python" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/zFIaVNv.png" title="electron" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/ZcIJUio.png" title="gulp" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/8zi7SYt.png" title="webpack" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/9DbVTos.png" title="sass" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/uQuB4Cn.png" title="react" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/d2YDW7g.png" title="bash" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/e7omycw.png" title="nextjs" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/u5s2vbq.png" title="vuejs" width="25"/>&nbsp;
     <br />
-    <img align="center" src="https://i.imgur.com/e8W17pa.png" alt="cplusplus" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/Fa3sdaT.png" alt="jquery" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/e8W17pa.png" title="cplusplus" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/Fa3sdaT.png" title="jquery" width="25"/>&nbsp;
 </div>
 
 <!--## Technologies and tools・💻
