@@ -14,7 +14,7 @@ Projects are done fully responsive and working normally, or if you have a loan a
     <img align="center" src="https://i.imgur.com/AsQqunT.png" alt="javascript"width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/JxP3cZE.png" alt="typescript" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/YWkyeFO.png" alt="bootstrap" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/8Qt25tg.png" alt="expressjs" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/zUvGK9u.png" alt="expressjs" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/Nhuq1Gt.png" alt="nodejs" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/tHz49Lt.png" alt="npm" width="25"/>&nbsp;
     <img align="center" src="https://i.imgur.com/WPOuZqI.png" alt="git" width="25"/>&nbsp;
