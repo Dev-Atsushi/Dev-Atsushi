@@ -1,22 +1,41 @@
-<p align="center">
-  <a href="https://ko-fi.com/atsushisushi" target="_blank">
-    <img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" border="0" alt='Buy a coffee for me ko-fi.com' />
-    <br />
-    <img src="https://discord.c99.nl/widget/theme-4/485088800540983299.png" />
-  </a>
-</p>
-
 ## Atsushi - Biography・👋
-Atsushi or better Arthur, is a fullstack specialized in web therefore knowing software developer and data, currently freelancing and doing open-source projects here on <a href="https://github.com/">Github</a>. Who knows, you might not pay me a cup of <a href="https://ko-fi.com/atsushisushi" target="_blank">coffee</a> to boost my codes.
 
-<img align="right" src="https://cdn.glitch.com/eee4f430-9a8b-4d56-b461-96c75e6db402%2Fimage-removebg-preview(1).png?v=1612131826385" height="160px" />
+<img align="right" src="https://raw.githubusercontent.com/Diego-DevsS/Diego-DevsS/main/image/gg.gif" height="160px" />
+
+Atsushi or better Arthur, is a fullstack specialized in web therefore knowing software developer and data.
+
+Currently freelancing and doing open-source projects here on <a href="https://github.com/">Github</a>. Who knows, you might not pay me a cup of <a href="https://ko-fi.com/atsushisushi" target="_blank">coffee</a> to boost my codes.
 
 Projects are done fully responsive and working normally, or if you have a loan and have a problem. <a href="https://github.com/Dev-Atsushi/">Report</a>.
-  
-Coffee Addict  <br />
-Web, Data and software Fullstack projects...
 
-## Technologies and tools・💻
+<div align="right" width="700">
+    <img align="center" src="https://i.imgur.com/hkpVEvr.png" alt="html5" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/nxsNQ9M.png" alt="css3" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/AsQqunT.png" alt="javascript"width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/JxP3cZE.png" alt="typescript" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/YWkyeFO.png" alt="bootstrap" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/8Qt25tg.png" alt="expressjs" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/Nhuq1Gt.png" alt="nodejs" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/tHz49Lt.png" alt="npm" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/WPOuZqI.png" alt="git" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/DZjNb1T.png" alt="mongodb" width="25"/>&nbsp;
+    <br />
+    <img align="center" src="https://i.imgur.com/bxqKdqe.png" alt="firebase" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/O1X88tn.png" alt="python" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/zFIaVNv.png" alt="electron" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/ZcIJUio.png" alt="gulp" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/8zi7SYt.png" alt="webpack" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/9DbVTos.png" alt="sass" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/uQuB4Cn.png" alt="react" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/d2YDW7g.png" alt="bash" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/e7omycw.png" alt="nextjs" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/u5s2vbq.png" alt="vuejs" width="25"/>&nbsp;
+    <br />
+    <img align="center" src="https://i.imgur.com/e8W17pa.png" alt="cplusplus" width="25"/>&nbsp;
+    <img align="center" src="https://i.imgur.com/Fa3sdaT.png" alt="jquery" width="25"/>&nbsp;
+</div>
+
+<!--## Technologies and tools・💻
 
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
@@ -45,10 +64,14 @@ Web, Data and software Fullstack projects...
 <img src="https://img.shields.io/badge/vuejs%20-34495E.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25" />
 <img src="https://img.shields.io/badge/c++%20-088192.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=%234FC08D" height="25" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25" />
-</p>
+</p>-->
 
-## Statistics・⭐
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-atsushi&show_icons=true&theme=tokyonight&line_height=27" />
+  <img src="https://discord.c99.nl/widget/theme-4/485088800540983299.png" />
+  <br />
+  <a href="https://ko-fi.com/atsushisushi" target="_blank">
+    <img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" border="0" alt='Buy a coffee for me ko-fi.com' />
+  </a>
 </p>
