@@ -70,7 +70,7 @@ Projects are done fully responsive and working normally, or if you have a loan a
 ---
 
 <p align="center">
-  <a href="https://discord.com/users/485088800540983299"><img src="https://discord.c99.nl/widget/theme-4/485088800540983299.png" /></a>
+  <a href="https://discord.com/users/852650555254767676"><img src="https://discord.c99.nl/widget/theme-4/852650555254767676.png" /></a>
   <br />
   <a href="https://ko-fi.com/atsushisushi" target="_blank">
     <img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" border="0" alt='Buy a coffee for me ko-fi.com' />
